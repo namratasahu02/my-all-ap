@@ -68,7 +68,7 @@ class Resume extends Component {
               startYear={"February 2022"}
               endYear={"Present"}              
               jobName={"ReactJS Developer"}
-              companyName={"ASTHA IT"}
+              companyName={"MSol Technologies Pvt. Ltd."}
               jobDesc={
                 [
 
